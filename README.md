@@ -1,1 +1,3 @@
-# personalsite
+# Jack Emo's personal site
+
+This is a work in progress...
